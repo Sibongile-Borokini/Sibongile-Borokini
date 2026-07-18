@@ -146,12 +146,12 @@ I'm continuously expanding my technical and analytical skills through hands-on p
 
 ## 🎓 Certifications
 
-🔄 Google Data Analytics Professional Certificate
-✅ HubSpot Inbound Marketing Certification
-🔄 Macquarie Excel Skills for Business Professional Certificate
-🔄 IBM Data Science Fundamentals Professional Certificate
-🔄 Power BI
-🔄 Google Analytics 4 
+- 🔄 Google Data Analytics Professional Certificate
+- ✅ HubSpot Inbound Marketing Certification
+- 🔄 Macquarie Excel Skills for Business Professional Certificate
+- 🔄 IBM Data Science Fundamentals Professional Certificate
+- 🔄 Power BI
+- 🔄 Google Analytics 4 
 
 ## 🚀 Currently Learning
 
@@ -255,11 +255,122 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 | Certification | Status |
 |---------------|--------|
-| Google Data Analytics Professional Certificate | ✅ Completed |
+| Google Data Analytics Professional Certificate | 🔄 In Progress |
 | HubSpot Inbound Marketing Certification | ✅ Completed |
 | Macquarie Excel Skills for Business Professional Certificate | 🔄 In Progress |
 | IBM Data Science Fundamentals Professional Certificate | 🔄 In Progress |
 | Salesforce | 📚 Learning |
 | Asana | 📚 Learning |
 | Snowflake | 📚 Learning |
-| Microsoft Power BI | 📚 Learning |
+| Microsoft Power BI | 🔄 In Progress |
+| Google Analytics 4 | 🔄 In Progress|
+
+---
+
+# 💡 Fun Facts
+
+- 📊 I enjoy transforming raw data into meaningful business insights.
+- 📈 I'm passionate about Marketing Analytics, Reporting and Business Intelligence.
+- 🌱 I'm constantly learning new tools and technologies to grow as a data professional.
+- 💼 I enjoy solving real-world business problems through data-driven decision-making.
+- 🌍 I'm open to remote opportunities and collaborating with teams around the world.
+- ☕ My best learning sessions usually happen with a good cup of coffee and a challenging dataset.
+
+---
+
+# 🗺️ Learning Roadmap
+
+## ✅ Completed
+
+- HubSpot Inbound Marketing Certification
+
+## 🔄 In Progress
+
+### Google Data Analytics Professional Certificate
+- ✅ Course 1
+- ✅ Course 2
+- ✅ Course 3
+- 🔄 Courses 4–8 In Progress
+
+### Macquarie Excel Skills for Business
+- ✅ Course 1
+- 🔄 Courses 2–4 In Progress
+
+### IBM Data Science Fundamentals
+- ✅ Course 1
+- ✅ Course 2
+- 🔄 Courses 3-8 In Progress
+
+### Google Analytics 4
+- 🔄 In Progress
+
+## 📚 Next Up
+
+- Salesforce
+- Asana
+- Snowflake
+- Microsoft Power BI
+
+## 🎯 Long-Term Goal
+
+Build expertise in Data Analytics, Marketing Analytics and Business Intelligence through continuous learning, hands-on projects and real-world experience.
+
+---
+
+# 📈 What I'm Currently Working On
+
+- 📊 Building real-world data analytics projects with Excel, SQL and BigQuery.
+- 📈 Expanding my portfolio with interactive dashboards and business case studies.
+- 🌱 Strengthening my skills in Salesforce, Asana and Snowflake. 
+- 💼 Preparing for Junior Data Analyst and Junior Reporting Analyst opportunities.
+- 🚀 Continuously improving my analytical, reporting and business intelligence skills.
+
+---
+
+# 🌟 My Core Strengths
+
+✔ Data Cleaning & Preparation
+
+✔ Data Analysis
+
+✔ Dashboard Development
+
+✔ Business Reporting
+
+✔ Marketing Analytics
+
+✔ Problem Solving
+
+✔ Critical Thinking
+
+✔ Curiosity
+
+✔ Communication & Collaboration
+
+✔ Continuous Learning 
+
+✔ Attention to detail
+
+---
+
+# 🎯 Why Hire Me
+
+I combine a strong foundation in Marketing Management with practical data analytics skills gained through professional certifications, hands-on projects and real business experience.
+
+I'm committed to continuous learning and enjoy transforming complex data into clear, actionable insights that support better business decisions. My goal is to contribute as a reliable, curious and growth-oriented member of a data team while continuously developing my technical expertise.
+
+---
+
+# 🏆 Achievements
+
+- 🎓 Completed my Honors in Marketing Management 
+- 📜 Earned the HubSpot Inbound Marketing Certification.
+- 📊 Built data analytics projects using Excel, SQL and BigQuery.
+- 📈 Created interactive dashboards for business reporting and analysis.
+- 🌱 Continuously expanding my skills through hands-on projects and professional development.
+
+  ---
+# 💭 My Analytics Mindset
+
+> *"Curiosity is where every great analysis begins."*
+
