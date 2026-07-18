@@ -1,6 +1,6 @@
 # Hi, I'm Sibongile Borokini 👋
 
-## Junior Reporting Analyst | Marketing Analytics | Data Analytics
+## Aspiring Data Analyst | Marketing Analytics | Business Intelligence
 
 📍 Pretoria, South Africa
 
@@ -136,18 +136,6 @@ A reporting dashboard that supports data-driven business decisions and improves 
 
 # 🌱 Currently Learning
 
-I'm continuously expanding my technical and analytical skills through hands-on projects and professional certifications.
-
-## 📚 Technical Skills
-
-![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-# 🌱 Currently Learning
-
 I'm continuously expanding my technical and analytical skills through hands-on projects and professional development.
 
 ## 📚 Technical Skills
@@ -158,25 +146,87 @@ I'm continuously expanding my technical and analytical skills through hands-on p
 
 ## 🎓 Certifications
 
-- 🔄 Google Data Analytics Professional Certificate
-- ✅ HubSpot Inbound Marketing Certification
-- 🔄 Macquarie Excel Skills for Business Professional Certificate
-- 🔄 IBM Data Science Fundamentals Professional Certificate
-- 🔄 Power BI
-- 🔄 Google Analytics 4 
+🔄 Google Data Analytics Professional Certificate
+✅ HubSpot Inbound Marketing Certification
+🔄 Macquarie Excel Skills for Business Professional Certificate
+🔄 IBM Data Science Fundamentals Professional Certificate
+🔄 Power BI
+🔄 Google Analytics 4 
 
 ## 🚀 Currently Learning
 
-- 🔹 Salesforce
-- 🔹 Asana
-- 🔹 Snowflake
-- 🔹 Advanced Microsoft Excel
-- 🔹 SQL for Data Analysis
-- 🔹 Python for Data Analytics
-- 🔹 Business Intelligence
+🔹 Salesforce
+🔹 Asana
+🔹 Snowflake
+🔹 Advanced Microsoft Excel
+🔹 SQL for Data Analysis
+🔹 Python for Data Analytics
+🔹 Business Intelligence
 
 ## 🎯 Current Focus
 
 Building practical, business-focused analytics projects that strengthen my skills in reporting, dashboard development, data cleaning, SQL and business intelligence while preparing for a Junior Data Analyst or Junior Reporting Analyst role. 
 
-**I enjoy solving business problems through data and continuously challenging myself by building projects that transform raw datasets into actionable insights. Every project in this portfolio reflects my commitment to learning, curiosity and continuous improvement.**
+---
+
+# 🎯 Career Goal
+
+I aspire to build a career in Data Analytics, Marketing Analytics and Business Intelligence by transforming raw data into meaningful insights that help organizations make informed business decisions.
+
+My goal is to continuously develop my analytical, technical and reporting skills through hands-on projects, professional certifications and real-world business experience while growing into a trusted data professional.
+
+---
+
+# 📬 Connect With Me
+
+📧 **Email:** khensimaluleke6@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sibongile-borokini
+
+💻 **GitHub Projects:** https://github.com/Sibongile-Borokini
+
+📍 **Location:** Pretoria, South Africa
+
+🌍 **Open to:** Remote Opportunities
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sibongile-Borokini&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibongile-Borokini&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sibongile-Borokini&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sibongile-Borokini&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sibongile-Borokini&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
