@@ -277,28 +277,11 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sibongile-Borokini&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Sibongile-Borokini&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sibongile-Borokini&theme=tokyonight&no-frame=true&row=1&column=6"/> 
 
 </p>
 
