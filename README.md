@@ -143,7 +143,7 @@ A marketing team needed to better understand customer demographics, purchasing b
 ✅ Completed
 
 <p align="center">
-<img width="1917" height="272" alt="Screenshot 2026-06-28 235503" src="https://github.com/user-attachments/assets/bd59a372-a1d5-4385-9384-be741ce7cdb3" />
+<img width="1920" height="799" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/f683a476-0bf0-42b7-8d8c-445e0046c8e8" />
 </p>
 
 ---
