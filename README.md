@@ -217,7 +217,7 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sibongile-Borokini&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sibongile-Borokini&theme=tokyonight&no-frame=true&row=1&column=6"/> 
 
 </p>
 
