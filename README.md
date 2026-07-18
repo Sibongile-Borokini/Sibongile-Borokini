@@ -248,3 +248,18 @@ My goal is to continuously develop my analytical, technical and reporting skills
 ## 💰 Sales & Revenue Dashboard
 
 *(Coming Soon)*
+
+---
+
+# 🏅 Certifications
+
+| Certification | Status |
+|---------------|--------|
+| Google Data Analytics Professional Certificate | ✅ Completed |
+| HubSpot Inbound Marketing Certification | ✅ Completed |
+| Macquarie Excel Skills for Business Professional Certificate | 🔄 In Progress |
+| IBM Data Science Fundamentals Professional Certificate | 🔄 In Progress |
+| Salesforce | 📚 Learning |
+| Asana | 📚 Learning |
+| Snowflake | 📚 Learning |
+| Microsoft Power BI | 📚 Learning |
