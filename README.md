@@ -5,9 +5,20 @@
 
 ## Juniour Data Analyst | Marketing Analytics | Business Intelligence
 
-📍 Pretoria, South Africa
+## 🌍 Open to Remote Opportunities
 
-🌍 Open to Remote Opportunities
+<p align="center">
+  <a href="https://github.com/Sibongile-Borokini">
+    <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="40" alt="South Africa"/>
+  </a>
+</p>
+
+<p align="center">
+✨ Based in Pretoria, South Africa<br>
+🌎 Open to Remote Opportunities Worldwide
+</p>
+
+---
 
 ## 👩🏽‍💻 About Me
 
