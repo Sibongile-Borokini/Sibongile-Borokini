@@ -16,6 +16,75 @@ Through academic projects and real-world business experience, I have developed p
 
 I am continuously expanding my technical skills while building a portfolio of projects that solve real business problems.
 
+---
+
+# 🌟 My Core Strengths
+
+✔ Data Cleaning & Preparation
+
+✔ Data Analysis
+
+✔ Dashboard Development
+
+✔ Business Reporting
+
+✔ Marketing Analytics
+
+✔ Problem Solving
+
+✔ Critical Thinking
+
+✔ Curiosity
+
+✔ Communication & Collaboration
+
+✔ Continuous Learning 
+
+✔ Attention to detail
+
+---
+
+# 🌱 Currently Learning
+
+I'm continuously expanding my technical and analytical skills through hands-on projects and professional development.
+
+## 📚 Technical Skills
+
+![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🎓 Certifications
+
+|Google Data Analytics Professional Certificate| In Progress 🔄|
+|HubSpot Inbound Marketing Certification| Completed ✅|
+|Macquarie Excel Skills for Business Professional Certificate| In Progress 🔄|
+|IBM Data Science Fundamentals Professional Certificate| In Progress 🔄|
+|Microsoft Power BI| In Progress 🔄|
+|Google Analytics 4| In Progress 🔄|
+
+## 🚀 Technologies
+
+![Salesforce](https://img.shields.io/badge/Salesforce-Learning-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-Learning-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+![HubSpot](https://img.shields.io/badge/HubSpot-Learning-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+
+![Asana](https://img.shields.io/badge/Asana-Learning-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-Learning-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+---
+
+# 🎯 Why Hire Me
+
+I combine a strong foundation in Marketing Management with practical data analytics skills gained through professional certifications, hands-on projects and real business experience.
+
+I'm committed to continuous learning and enjoy transforming complex data into clear, actionable insights that support better business decisions. My goal is to contribute as a reliable, curious and growth-oriented member of a data team while continuously developing my technical expertise.
+
+---
+
 ## 🛠 Tech Stack
 
 ### 📊 Data Analytics
@@ -70,8 +139,10 @@ A marketing team needed to better understand customer demographics, purchasing b
 ✅ Completed
 
 <p align="center">
-<img src="images/dashboard.png" width="900">
+<img width="1917" height="272" alt="Screenshot 2026-06-28 235503" src="https://github.com/user-attachments/assets/bd59a372-a1d5-4385-9384-be741ce7cdb3" />
 </p>
+
+---
 
 ## 📈 Retail Sales Performance Dashboard
 
@@ -103,8 +174,10 @@ A retail business needed an interactive dashboard to monitor sales performance, 
 ✅ Completed
 
 <p align="center">
-<img src="images/dashboard.png" width="900">
+<img width="1920" height="678" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/cbdddb18-c63c-4ea1-bc14-3dc91c2f2614" />
 </p>
+
+---
 
 ## 💰 Sales & Revenue Reporting Dashboard
 
@@ -134,35 +207,6 @@ A reporting dashboard that supports data-driven business decisions and improves 
 
 ---
 
-# 🌱 Currently Learning
-
-I'm continuously expanding my technical and analytical skills through hands-on projects and professional development.
-
-## 📚 Technical Skills
-
-![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## 🎓 Certifications
-
-- 🔄 Google Data Analytics Professional Certificate
-- ✅ HubSpot Inbound Marketing Certification
-- 🔄 Macquarie Excel Skills for Business Professional Certificate
-- 🔄 IBM Data Science Fundamentals Professional Certificate
-- 🔄 Power BI
-- 🔄 Google Analytics 4 
-
-## 🚀 Currently Learning
-
-🔹 Salesforce
-🔹 Asana
-🔹 Snowflake
-🔹 Advanced Microsoft Excel
-🔹 SQL for Data Analysis
-🔹 Python for Data Analytics
-🔹 Business Intelligence
-
 ## 🎯 Current Focus
 
 Building practical, business-focused analytics projects that strengthen my skills in reporting, dashboard development, data cleaning, SQL and business intelligence while preparing for a Junior Data Analyst or Junior Reporting Analyst role. 
@@ -173,7 +217,18 @@ Building practical, business-focused analytics projects that strengthen my skill
 
 I aspire to build a career in Data Analytics, Marketing Analytics and Business Intelligence by transforming raw data into meaningful insights that help organizations make informed business decisions.
 
-My goal is to continuously develop my analytical, technical and reporting skills through hands-on projects, professional certifications and real-world business experience while growing into a trusted data professional.
+My goal is to continuously develop my analytical, technical and reporting skills through hands-on projects, professional certifications and real-world business experience while growing into a trusted data professional. 
+
+---
+
+# 💡 Fun Facts
+
+- 🧩 I'm naturally curious and love solving problems.
+- 📊 Data analytics is the yin to my yang—it combines everything I enjoy about asking questions, finding patterns and solving problems.
+- ✍️ I enjoy writing and expressing my thoughts through words.
+- 🎨 I love drawing and exploring my creative side.
+- 🎤 I enjoy singing whenever I get the chance.
+- 🌱 I'm a lifelong learner who enjoys discovering new tools, technologies and ways of thinking.
 
 ---
 
@@ -235,13 +290,13 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 ## 📊 Retail Sales Performance Dashboard
 
-![Retail Dashboard](images/retail-dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/1cd952a8-574d-4a50-bfcc-90cb03149538" />
 
 ---
 
 ## 📈 Omnichannel Marketing Dashboard
 
-![Omnichannel Dashboard](images/omnichannel-dashboard.png)
+<img width="1920" height="809" alt="Screenshot 2026-06-28 201610" src="https://github.com/user-attachments/assets/62151c41-9967-418b-94fe-24cfb9cbb0f5" />
 
 ---
 
@@ -249,127 +304,8 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 *(Coming Soon)*
 
----
-
-# 🏅 Certifications
-
-| Certification | Status |
-|---------------|--------|
-| Google Data Analytics Professional Certificate | 🔄 In Progress |
-| HubSpot Inbound Marketing Certification | ✅ Completed |
-| Macquarie Excel Skills for Business Professional Certificate | 🔄 In Progress |
-| IBM Data Science Fundamentals Professional Certificate | 🔄 In Progress |
-| Salesforce | 📚 Learning |
-| Asana | 📚 Learning |
-| Snowflake | 📚 Learning |
-| Microsoft Power BI | 🔄 In Progress |
-| Google Analytics 4 | 🔄 In Progress|
-
----
-
-# 💡 Fun Facts
-
-- 📊 I enjoy transforming raw data into meaningful business insights.
-- 📈 I'm passionate about Marketing Analytics, Reporting and Business Intelligence.
-- 🌱 I'm constantly learning new tools and technologies to grow as a data professional.
-- 💼 I enjoy solving real-world business problems through data-driven decision-making.
-- 🌍 I'm open to remote opportunities and collaborating with teams around the world.
-- ☕ My best learning sessions usually happen with a good cup of coffee and a challenging dataset.
-
----
-
-# 🗺️ Learning Roadmap
-
-## ✅ Completed
-
-- HubSpot Inbound Marketing Certification
-
-## 🔄 In Progress
-
-### Google Data Analytics Professional Certificate
-- ✅ Course 1
-- ✅ Course 2
-- ✅ Course 3
-- 🔄 Courses 4–8 In Progress
-
-### Macquarie Excel Skills for Business
-- ✅ Course 1
-- 🔄 Courses 2–4 In Progress
-
-### IBM Data Science Fundamentals
-- ✅ Course 1
-- ✅ Course 2
-- 🔄 Courses 3-8 In Progress
-
-### Google Analytics 4
-- 🔄 In Progress
-
-## 📚 Next Up
-
-- Salesforce
-- Asana
-- Snowflake
-- Microsoft Power BI
-
-## 🎯 Long-Term Goal
-
-Build expertise in Data Analytics, Marketing Analytics and Business Intelligence through continuous learning, hands-on projects and real-world experience.
-
----
-
-# 📈 What I'm Currently Working On
-
-- 📊 Building real-world data analytics projects with Excel, SQL and BigQuery.
-- 📈 Expanding my portfolio with interactive dashboards and business case studies.
-- 🌱 Strengthening my skills in Salesforce, Asana and Snowflake. 
-- 💼 Preparing for Junior Data Analyst and Junior Reporting Analyst opportunities.
-- 🚀 Continuously improving my analytical, reporting and business intelligence skills.
-
----
-
-# 🌟 My Core Strengths
-
-✔ Data Cleaning & Preparation
-
-✔ Data Analysis
-
-✔ Dashboard Development
-
-✔ Business Reporting
-
-✔ Marketing Analytics
-
-✔ Problem Solving
-
-✔ Critical Thinking
-
-✔ Curiosity
-
-✔ Communication & Collaboration
-
-✔ Continuous Learning 
-
-✔ Attention to detail
-
----
-
-# 🎯 Why Hire Me
-
-I combine a strong foundation in Marketing Management with practical data analytics skills gained through professional certifications, hands-on projects and real business experience.
-
-I'm committed to continuous learning and enjoy transforming complex data into clear, actionable insights that support better business decisions. My goal is to contribute as a reliable, curious and growth-oriented member of a data team while continuously developing my technical expertise.
-
----
-
-# 🏆 Achievements
-
-- 🎓 Completed my Honors in Marketing Management 
-- 📜 Earned the HubSpot Inbound Marketing Certification.
-- 📊 Built data analytics projects using Excel, SQL and BigQuery.
-- 📈 Created interactive dashboards for business reporting and analysis.
-- 🌱 Continuously expanding my skills through hands-on projects and professional development.
-
   ---
+  
 # 💭 My Analytics Mindset
 
 > *"Curiosity is where every great analysis begins."*
