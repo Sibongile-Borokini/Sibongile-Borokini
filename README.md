@@ -3,14 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
-## Juniour Data Analyst | Marketing Analytics | Business Intelligence
+<h1 align="center">
+ Juniour Data Analyst | Marketing Analytics | Business Intelligence
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Junior+Data+Analyst;Marketing+Analytics+Graduate;SQL+%7C+Excel+%7C+Python;Turning+Data+Into+Business+Insights;Open+to+Remote+Opportunities+Worldwide" />
+  <a href="https://github.com/Sibongile-Borokini">
+    <img src="https://hatscripts.github.io/circle-flags/flags/za.svg" width="40" alt="South Africa"/>
+  </a>
 </p>
 
 <p align="center">
-  🌍 Based in Pretoria, South Africa • 💼 Open to Remote Opportunities Worldwide
+✨ Based in Pretoria, South Africa<br>
+🌎 Open to Remote Opportunities Worldwide
 </p>
 
 ---
