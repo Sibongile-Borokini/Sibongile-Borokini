@@ -132,4 +132,51 @@ A reporting dashboard that supports data-driven business decisions and improves 
 
 🚧 In Progress
 
+---
+
+# 🌱 Currently Learning
+
+I'm continuously expanding my technical and analytical skills through hands-on projects and professional certifications.
+
+## 📚 Technical Skills
+
+![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 🌱 Currently Learning
+
+I'm continuously expanding my technical and analytical skills through hands-on projects and professional development.
+
+## 📚 Technical Skills
+
+![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🎓 Certifications
+
+- 🔄 Google Data Analytics Professional Certificate
+- ✅ HubSpot Inbound Marketing Certification
+- 🔄 Macquarie Excel Skills for Business Professional Certificate
+- 🔄 IBM Data Science Fundamentals Professional Certificate
+- 🔄 Power BI
+- 🔄 Google Analytics 4 
+
+## 🚀 Currently Learning
+
+- 🔹 Salesforce
+- 🔹 Asana
+- 🔹 Snowflake
+- 🔹 Advanced Microsoft Excel
+- 🔹 SQL for Data Analysis
+- 🔹 Python for Data Analytics
+- 🔹 Business Intelligence
+
+## 🎯 Current Focus
+
+Building practical, business-focused analytics projects that strengthen my skills in reporting, dashboard development, data cleaning, SQL and business intelligence while preparing for a Junior Data Analyst or Junior Reporting Analyst role. 
+
 **I enjoy solving business problems through data and continuously challenging myself by building projects that transform raw datasets into actionable insights. Every project in this portfolio reflects my commitment to learning, curiosity and continuous improvement.**
