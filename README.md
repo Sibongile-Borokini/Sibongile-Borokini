@@ -56,12 +56,14 @@ I'm continuously expanding my technical and analytical skills through hands-on p
 
 ## 🎓 Certifications
 
-|Google Data Analytics Professional Certificate| In Progress 🔄|
-|HubSpot Inbound Marketing Certification| Completed ✅|
-|Macquarie Excel Skills for Business Professional Certificate| In Progress 🔄|
-|IBM Data Science Fundamentals Professional Certificate| In Progress 🔄|
-|Microsoft Power BI| In Progress 🔄|
-|Google Analytics 4| In Progress 🔄|
+| Certification / Technology | Status |
+|----------------------------|--------|
+| HubSpot Inbound Marketing Certification | ✅ Completed |
+| Google Data Analytics Professional Certification | 🔄 In Progress |
+| Macquarie Excel Skills for Business Professional Certificate | 🔄 In Progress |
+| IBM Data Science Fundamentals Professional Certificate | 🔄 In Progress |
+| Microsoft Power BI | Starting Soon |
+| Google Analytics 4 (GA4) | 📚 Learning |
 
 ## 🚀 Technologies
 
