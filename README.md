@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-✨ Based in Pretoria, South Africa<br>
+ Based in Pretoria, South Africa<br>
 🌎 Open to Remote Opportunities Worldwide
 </p>
 
