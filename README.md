@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
-## Aspiring Data Analyst | Marketing Analytics | Business Intelligence
+## Juniour Data Analyst | Marketing Analytics | Business Intelligence
 
 📍 Pretoria, South Africa
 
@@ -207,7 +207,7 @@ A reporting dashboard that supports data-driven business decisions and improves 
 
 ### 📂 Status
 
-🚧 In Progress
+🚧 Currently Building
 
 ---
 
@@ -219,7 +219,7 @@ Building practical, business-focused analytics projects that strengthen my skill
 
 # 🎯 Career Goal
 
-I aspire to build a career in Data Analytics, Marketing Analytics and Business Intelligence by transforming raw data into meaningful insights that help organizations make informed business decisions.
+I transfrom complex business data into meaningful insights that empower smart business decisions.
 
 My goal is to continuously develop my analytical, technical and reporting skills through hands-on projects, professional certifications and real-world business experience while growing into a trusted data professional. 
 
@@ -269,13 +269,8 @@ My goal is to continuously develop my analytical, technical and reporting skills
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sibongile-Borokini&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibongile-Borokini&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sibongile-Borokini&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
