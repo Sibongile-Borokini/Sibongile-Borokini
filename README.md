@@ -36,4 +36,100 @@ I am continuously expanding my technical skills while building a portfolio of pr
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 
+---
+
+# 📊 Featured Projects
+
+## 📊 Omnichannel Marketing Campaign & Consumer Behaviour Analysis
+
+### 🛠 Tools
+
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🎯 Business Problem
+
+A marketing team needed to better understand customer demographics, purchasing behaviour and campaign performance to improve future marketing decisions.
+
+### 📋 What I Did
+
+- Cleaned and prepared more than **2,200 customer records**
+- Analysed customer demographics and purchasing behaviour
+- Identified campaign performance trends
+- Developed business recommendations supported by data
+
+### 💡 Key Insights
+
+- Identified high-performing customer segments
+- Highlighted purchasing trends across demographic groups
+- Recommended improvements to campaign targeting and customer engagement
+
+### 📂 Status
+
+✅ Completed
+
+<p align="center">
+<img src="images/dashboard.png" width="900">
+</p>
+
+## 📈 Retail Sales Performance Dashboard
+
+### 🛠 Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🎯 Business Problem
+
+A retail business needed an interactive dashboard to monitor sales performance, track key performance indicators (KPIs) and identify trends that support better business decision-making.
+
+### 📋 What I Did
+
+- Cleaned and validated approximately **9,800 retail sales records**
+- Organised and prepared data for analysis
+- Built an interactive Excel dashboard
+- Created KPI reports to monitor sales performance
+- Analysed sales trends across products and time periods
+
+### 💡 Key Insights
+
+- Identified sales trends over time
+- Highlighted top-performing products and categories
+- Created visual KPI reports for easier decision-making
+- Developed an interactive dashboard for business reporting
+
+### 📂 Status
+
+✅ Completed
+
+<p align="center">
+<img src="images/dashboard.png" width="900">
+</p>
+
+## 💰 Sales & Revenue Reporting Dashboard
+
+### 🛠 Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+### 🎯 Business Problem
+
+Build a centralised reporting dashboard that enables business owners to monitor sales, revenue and product performance.
+
+### 📋 What I'm Doing
+
+- Cleaning historical sales data
+- Validating records
+- Creating a structured reporting database
+- Building KPI dashboards
+
+### 🚀 Expected Outcome
+
+A reporting dashboard that supports data-driven business decisions and improves sales visibility.
+
+### 📂 Status
+
+🚧 In Progress
+
 **I enjoy solving business problems through data and continuously challenging myself by building projects that transform raw datasets into actionable insights. Every project in this portfolio reflects my commitment to learning, curiosity and continuous improvement.**
