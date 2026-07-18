@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sibongile+Borokini;Junior+Data+Analyst;Junior+Reporting+Analyst;Marketing+Analytics+Enthusiast;Transforming+Data+into+Business+Insights;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 # Hi, I'm Sibongile Borokini 👋
 
 ## Aspiring Data Analyst | Marketing Analytics | Business Intelligence
@@ -63,7 +67,6 @@ I'm continuously expanding my technical and analytical skills through hands-on p
 | Macquarie Excel Skills for Business Professional Certificate | 🔄 In Progress |
 | IBM Data Science Fundamentals Professional Certificate | 🔄 In Progress |
 | Microsoft Power BI | Starting Soon |
-| Google Analytics 4 (GA4) | 📚 Learning |
 
 ## 🚀 Technologies
 
@@ -292,7 +295,7 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 ## 📊 Retail Sales Performance Dashboard
 
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/1cd952a8-574d-4a50-bfcc-90cb03149538" />
+<img width="1920" height="678" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/bcc7df6c-37e9-4118-8c64-849d1d5ea4b1" />
 
 ---
 
