@@ -225,14 +225,30 @@ My goal is to continuously develop my analytical, technical and reporting skills
 
 ---
 
-# 💡 Fun Facts
+## 💡 Meet Me Beyond the Resume
 
-- 🧩 I'm naturally curious and love solving problems.
-- 📊 Data analytics is the yin to my yang—it combines everything I enjoy about asking questions, finding patterns and solving problems.
-- ✍️ I enjoy writing and expressing my thoughts through words.
-- 🎨 I love drawing and exploring my creative side.
-- 🎤 I enjoy singing whenever I get the chance.
-- 🌱 I'm a lifelong learner who enjoys discovering new tools, technologies and ways of thinking.
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 The Creative Me
+- ✍️ I love writing and expressing myself.
+- 🎨 Drawing helps me think creatively.
+- 🎤 Singing is one of my favourite hobbies.
+
+</td>
+
+<td width="50%">
+
+### 📊 The Analyst Me
+- 🧩 I'm naturally curious.
+- 💡 Solving problems energizes me.
+- 📈 Data analytics is the **yin to my yang**.
+- 🌱 I love learning new technologies.
+
+</td>
+</tr>
+</table>
 
 ---
 
