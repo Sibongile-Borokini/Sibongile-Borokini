@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=2F80ED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sibongile+Borokini;Junior+Data+Analyst;Junior+Reporting+Analyst;Marketing+Analytics+Enthusiast;Transforming+Data+into+Business+Insights;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-# Hi, I'm Sibongile Borokini 👋
+<h1 align="center">
+  Hi, I'm Sibongile Borokini
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 ## Aspiring Data Analyst | Marketing Analytics | Business Intelligence
 
