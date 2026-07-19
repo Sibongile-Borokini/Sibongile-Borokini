@@ -116,11 +116,11 @@ I'm committed to continuous learning and enjoy transforming complex data into cl
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-FF9800?style=for-the-badge) 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Ananalytics-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
