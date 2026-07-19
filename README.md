@@ -84,11 +84,11 @@ I'm continuously expanding my technical and analytical skills through hands-on p
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-Learning-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-![HubSpot](https://img.shields.io/badge/HubSpot-Learning-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-Completed-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-![Asana](https://img.shields.io/badge/Asana-Learning-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-Completed-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
 
-![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-Learning-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-Completed-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
 
